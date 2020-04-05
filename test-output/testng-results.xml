@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54715" started-at="2019-12-17T08:12:27Z" finished-at="2019-12-17T08:13:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54715" started-at="2019-12-17T08:12:27Z" finished-at="2019-12-17T08:13:22Z">
+      <class name="aera.test.TestSearchFlight">
+        <test-method status="PASS" signature="initApp()[pri:0, instance:aera.test.TestSearchFlight@cc285f4]" name="initApp" is-config="true" duration-ms="16384" started-at="2019-12-17T00:12:27Z" finished-at="2019-12-17T00:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApp -->
+        <test-method status="PASS" signature="bookFlightTicket()[pri:0, instance:aera.test.TestSearchFlight@cc285f4]" name="bookFlightTicket" duration-ms="37009" started-at="2019-12-17T00:12:43Z" finished-at="2019-12-17T00:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookFlightTicket -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:aera.test.TestSearchFlight@cc285f4]" name="tearDown" is-config="true" duration-ms="1300" started-at="2019-12-17T00:13:20Z" finished-at="2019-12-17T00:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- aera.test.TestSearchFlight -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
